@@ -1,0 +1,51 @@
+.suggestions{
+    margin: 20px;
+    margin-right: 20px;
+}
+
+.suggestions_title{
+    color: darkgrey;
+    font-weight: bolder;
+    border-bottom: 2px solid ;
+}
+
+.username_left{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.username_info{
+    display: flex;
+    flex-direction: column;
+}
+
+.relation{
+    color: gray;
+    font-size: 15px;
+}
+
+.suggestions_username{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 5px;
+    align-items: center;
+    border-bottom: 1px solid ;
+}
+
+.follow_button{
+    color: blue;
+    font-weight: bolder;
+    background: 0;
+    border: 0;
+}
+
+.follow_button:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.avatar{
+    margin-right: 10px;
+}
